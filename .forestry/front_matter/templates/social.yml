@@ -1,9 +1,0 @@
----
-label: Social Links
-hide_body: true
-is_partial: false
-fields:
-  - type: null
-    name: links
-    label: Social Links
-    description: A list of social links displayed in the footer.
