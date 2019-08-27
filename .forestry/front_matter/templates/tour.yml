@@ -23,3 +23,8 @@ fields:
 - type: text
   name: template
   label: template
+- name: test
+  type: text
+  config:
+    required: false
+  label: test
